@@ -1,0 +1,6 @@
+basement: done
+living room: wip
+kitchen: wip
+bathroom: todo
+bedroom: todo
+toilet: wip
